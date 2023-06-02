@@ -1,0 +1,24 @@
+body{
+    background-image: url("background.png");
+    
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 1200px;
+    height: 1200px;
+
+  }
+  nav{
+    color: rgb(255, 255, 255) !important;
+    
+  }
+ .font{
+  color: rgb(255, 255, 255);
+  width:500px ;
+  padding-top: 150px;
+  margin: auto;
+  
+
+ }
+ 
