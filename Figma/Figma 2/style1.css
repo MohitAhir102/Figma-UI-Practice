@@ -192,7 +192,7 @@ input{
 
 
 .chair{
-    background: gray;
+    background: #FAFAFA;
     border-radius: 20px;
     width: 268px;
 }
@@ -200,35 +200,14 @@ input{
     margin-top: -40px;
 }
 .text-content{
-background-color: white;
+background-color: #FFFFFF;
 }
 
 .plus{
     display: flex;
     justify-content: space-between;
 }
-/* .chair2{
-    display: flex;
-    background: gray;
-    border-radius: 20px;
-    margin-left: 42px;
-    width: 268px;
-    height: 441px;
-}.chair3{
-    display: flex;
-    background: gray;
-    border-radius: 20px;
-    margin-left: 42px;
-    width: 268px;
-    height: 441px;
-}.chair4{
-    display: flex;
-    background: gray;
-    border-radius: 20px;
-    margin-left: 42px;
-    width: 268px;
-    height: 441px;
-} */
+
 
 .chpic{
     display: flex;
@@ -256,7 +235,9 @@ background-color: white;
 .pc1{
     margin-top: 240px;
 }
-
+.bg-color1{
+    background-color: #F7F7F7;
+}
 .section-3{
     display: flex;
 }
@@ -286,6 +267,7 @@ background-color: white;
     color: #E58411;
 }
 .sction4{
+    
     margin-top: 364px;
     margin-left: 80px;
 
@@ -299,4 +281,89 @@ background-color: white;
 }
 .sc-text1{
     margin-bottom: 24px;
+}
+
+.grp-img{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+
+.tst{
+   text-align: center;
+   margin-top: 261px;
+}
+
+.Testimonial{
+    color: #E58411 ;
+}
+
+.our{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.review{
+    display: flex;
+    justify-content: center;
+    
+}
+.rv1{
+    margin-left: 127px;
+    margin-right: 39px;
+    
+}
+.rv2{
+    margin-right: 38px;
+}
+.rv3{
+    margin-right: 126px;
+}
+
+.rv-pic{
+    background-color: rgb(62, 53, 53);
+    
+}
+
+.footer{
+    display: flex;
+    background-color: #F7F7F7;
+    margin-top: 214px;
+}
+.ft-1{
+    margin-top: 128px; 
+    margin-left: 188px;
+}
+
+.ft-1 p{
+    margin-top: 29px;
+}
+.ft-2{
+    margin-top: 115px;
+    margin-left: 152px;
+    padding: 15px;
+}
+.ft-2 li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.ft-txt{
+    color: #E58411;
+}
+
+.footer-head{
+    background-color:#F7F7F7 ;
+    display: flex;
+    
+    height: 130px;
+    width: 1518px;
+
+    padding: 130px 0px 0px 188px;
+    /* margin-top: 130px; */
+}
+
+.copyright-1{
+    margin-left: 679px;
+    margin-right:70px ;
 }
